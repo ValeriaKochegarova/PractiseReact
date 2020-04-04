@@ -1,2 +1,0 @@
-# PractiseReact
-Created with CodeSandbox
